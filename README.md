@@ -22,6 +22,14 @@ This application demonstrates a complete Web3 authentication and message signing
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Type Safety**: Full TypeScript implementation with Zod validation
 
+## Live Demo
+
+The application is deployed and available at:
+
+**Frontend (Vercel)**: [https://legacy-fe-candidate-assignment-lime.vercel.app/](https://legacy-fe-candidate-assignment-lime.vercel.app/)
+
+**Backend (Render)**: Hosted on Render cloud platform
+
 ## Tech Stack
 
 ### Frontend
